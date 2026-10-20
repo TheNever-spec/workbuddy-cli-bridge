@@ -1,0 +1,16 @@
+# 本地凭据与运行产物 —— 绝对不能提交
+wb-token.json
+token-capture.log
+token-refresh.log
+bridge.log
+bridge-debug.flag
+cli-options.json
+wb-cli-config/
+
+# 依赖与临时文件
+node_modules/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
