@@ -1,0 +1,5 @@
+# 统一换行符，避免 Windows 下提交出 CRLF
+* text=auto eol=lf
+*.cjs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
